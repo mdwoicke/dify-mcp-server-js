@@ -1,4 +1,5 @@
 # dify-server MCP 服务器
+[![smithery badge](https://smithery.ai/badge/@mdwoicke/dify-mcp-server-js)](https://smithery.ai/server/@mdwoicke/dify-mcp-server-js)
 
 一个集成 Dify AI API 的 Model Context Protocol 服务器
 
